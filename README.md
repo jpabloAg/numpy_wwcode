@@ -33,3 +33,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+Guía rápida de la instalación de jupyter en la línea de comandos y como levantar el servidor:
+https://www.digitalocean.com/community/tutorials/como-instalar-jupyter-notebook-ejecutarla-y-conectarse-a-ella-en-un-servidor-remoto-es
